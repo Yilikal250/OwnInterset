@@ -70,24 +70,52 @@
     margin-right: 220px;
 }
 
+#mov:hover {
+    background-color: yellow;
+  }
+
+#trav:hover {
+    background-color: yellow;
+  }
+
+#rea:hover {
+    background-color: yellow;
+  }
+
 #mov {
     text-align: center;
     font-size: xx-large;
     font-family: 'Poppins', sans-serif;
+    border: 2px solid silver;
+    border-radius: 5px;
+    width: fit-content;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: burlywood;
+
 }
 
 #trav {
     text-align: center;
     font-size: xx-large;
     font-family: 'Poppins', sans-serif;
+    border: 2px solid silver;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: burlywood;
 }
 
 #rea {
 text-align: center;
 font-size: xx-large;
 font-family: 'Poppins', sans-serif;
-}
-
-#hobb {
-    text-align: center;
+border: 2px solid silver;
+border-radius: 5px;
+margin-left: 45%;
+margin-bottom: 30px;
+margin-top: 30px;
+background-color: burlywood;
 }
