@@ -9,7 +9,7 @@
 
 
 ## Live Demo 🔗
-https://yilikal250.github.io/OwnInterset/
+https://yilikal250.github.io/ActAssignment/
 
 
 ## Getting Started
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-Clone the repository using the GitHub [link](git@github.com:Yilikal250/OwnInterset.git)
+Clone the repository using the GitHub [link](git@github.com:Yilikal250/ActAssignment.git)
 
 ### Install
 
@@ -56,7 +56,7 @@ Please find the link in the Live Demo section.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Yilikal250/OwnInterset/issues).
+Feel free to check the [issues page](https://github.com/Yilikal250/ActAssignment/issues).
 
 ## Show your support
 
